@@ -1,16 +1,16 @@
 {
-  "version": "0.1.12",
-  "notes": "Official distribution signed and notarized by Apple.\nUpdate within Nola with download progress and confirmation before installing.\nYour projects and preferences are preserved.",
+  "version": "0.1.13",
+  "notes": "Fixes opening projects and video groups in the distributed app.\nKeeps in-app updates and Portuguese, English and Spanish translations.\nLocal projects, sign-in and license are preserved.",
   "notes_i18n": {
-    "pt-BR": "Distribuição oficial assinada e notarizada pela Apple.\nAtualizações pelo próprio Nola, com progresso e confirmação antes de instalar.\nProjetos e preferências são preservados.",
-    "en": "Official distribution signed and notarized by Apple.\nUpdate within Nola with download progress and confirmation before installing.\nYour projects and preferences are preserved.",
-    "es": "Distribución oficial firmada y notarizada por Apple.\nActualiza desde Nola con progreso y confirmación antes de instalar.\nTus proyectos y preferencias se conservan."
+    "pt-BR": "Corrige a abertura de projetos e grupos na versão distribuída.\nMantém as atualizações pelo Nola e as traduções em português, inglês e espanhol.\nProjetos locais, login e licença são preservados.",
+    "en": "Fixes opening projects and video groups in the distributed app.\nKeeps in-app updates and Portuguese, English and Spanish translations.\nLocal projects, sign-in and license are preserved.",
+    "es": "Corrige la apertura de proyectos y grupos de videos en la aplicación distribuida.\nMantiene las actualizaciones desde Nola y las traducciones en portugués, inglés y español.\nSe conservan los proyectos locales, la sesión y la licencia."
   },
-  "pub_date": "2026-10-28T20:30:37.816Z",
+  "pub_date": "2026-10-28T22:10:07.193Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejBFdDY0cTAwWnJpdFhTTU80eTFoNndWVjdmUlFhVjRyY0x5aUNQNWVQK1RZMUl3eTNPQzlOYllEVGNEUitRWW5xQXR5cDVPemlDa3NBTzBRMzg0ZU5lTWlyR2RZVVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjE5NDM3CWZpbGU6Tm9sYV8wLjEuMTJfYWFyY2g2NC5hcHAudGFyLmd6CkZGNVV4U0tKNW1YVzV2Z0kxNWRhQVc3cCtUdmY5akdLUDB5b1RmV0JLR1YzTjIyZVltY3BLVEE1SXZkQnhNOUt5VHFFU04rcXJ6b0wyVHJvcnlpVkJBPT0K",
-      "url": "https://github.com/psiotavio/Nola-Releases/releases/download/v0.1.12/Nola_0.1.12_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejBFdDY0cTAwWm9RVnE4eEN4alpwaUJwY3E2L2FxVTlFTm9VcXVsNXRIWVg3LzFob2gzTWlwYmZLazJVVU1aU1RFNkxhd2liL3plS0JnMzVZQ1Q5MytUVnhpdlozSlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI1NDA3CWZpbGU6Tm9sYV8wLjEuMTNfYWFyY2g2NC5hcHAudGFyLmd6CmZTWVprOW1LUDEvVlc4Z2ZqM1QzbG9HZUJOdDAzMk4vT1Q3MldSZHZnNEpXUU8rQXQ0VDFjR3J2djZCL3RUZk1OVXhQKzNtMDlCV0tzR1RwdWc4UUR3PT0K",
+      "url": "https://github.com/psiotavio/Nola-Releases/releases/download/v0.1.13/Nola_0.1.13_aarch64.app.tar.gz"
     }
   }
 }
