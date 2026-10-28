@@ -1,5 +1,16 @@
 {
-  "version": "0.1.11",
-  "notes": "Nola updater is ready. No newer release is available yet.",
-  "platforms": {}
+  "version": "0.1.12",
+  "notes": "Official distribution signed and notarized by Apple.\nUpdate within Nola with download progress and confirmation before installing.\nYour projects and preferences are preserved.",
+  "notes_i18n": {
+    "pt-BR": "Distribuição oficial assinada e notarizada pela Apple.\nAtualizações pelo próprio Nola, com progresso e confirmação antes de instalar.\nProjetos e preferências são preservados.",
+    "en": "Official distribution signed and notarized by Apple.\nUpdate within Nola with download progress and confirmation before installing.\nYour projects and preferences are preserved.",
+    "es": "Distribución oficial firmada y notarizada por Apple.\nActualiza desde Nola con progreso y confirmación antes de instalar.\nTus proyectos y preferencias se conservan."
+  },
+  "pub_date": "2026-10-28T20:30:37.816Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejBFdDY0cTAwWnJpdFhTTU80eTFoNndWVjdmUlFhVjRyY0x5aUNQNWVQK1RZMUl3eTNPQzlOYllEVGNEUitRWW5xQXR5cDVPemlDa3NBTzBRMzg0ZU5lTWlyR2RZVVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjE5NDM3CWZpbGU6Tm9sYV8wLjEuMTJfYWFyY2g2NC5hcHAudGFyLmd6CkZGNVV4U0tKNW1YVzV2Z0kxNWRhQVc3cCtUdmY5akdLUDB5b1RmV0JLR1YzTjIyZVltY3BLVEE1SXZkQnhNOUt5VHFFU04rcXJ6b0wyVHJvcnlpVkJBPT0K",
+      "url": "https://github.com/psiotavio/Nola-Releases/releases/download/v0.1.12/Nola_0.1.12_aarch64.app.tar.gz"
+    }
+  }
 }
