@@ -1,0 +1,20 @@
+{
+  "version": "0.1.13",
+  "notes": "Fixes opening projects and video groups in the distributed app.\nKeeps in-app updates and Portuguese, English and Spanish translations.\nLocal projects, sign-in and license are preserved.",
+  "notes_i18n": {
+    "pt-BR": "Corrige a abertura de projetos e grupos na versão distribuída.\nMantém as atualizações pelo Nola e as traduções em português, inglês e espanhol.\nProjetos locais, login e licença são preservados.",
+    "en": "Fixes opening projects and video groups in the distributed app.\nKeeps in-app updates and Portuguese, English and Spanish translations.\nLocal projects, sign-in and license are preserved.",
+    "es": "Corrige la apertura de proyectos y grupos de videos en la aplicación distribuida.\nMantiene las actualizaciones desde Nola y las traducciones en portugués, inglés y español.\nSe conservan los proyectos locales, la sesión y la licencia."
+  },
+  "pub_date": "2026-10-28T22:10:07.193Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejBFdDY0cTAwWm9RVnE4eEN4alpwaUJwY3E2L2FxVTlFTm9VcXVsNXRIWVg3LzFob2gzTWlwYmZLazJVVU1aU1RFNkxhd2liL3plS0JnMzVZQ1Q5MytUVnhpdlozSlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI1NDA3CWZpbGU6Tm9sYV8wLjEuMTNfYWFyY2g2NC5hcHAudGFyLmd6CmZTWVprOW1LUDEvVlc4Z2ZqM1QzbG9HZUJOdDAzMk4vT1Q3MldSZHZnNEpXUU8rQXQ0VDFjR3J2djZCL3RUZk1OVXhQKzNtMDlCV0tzR1RwdWc4UUR3PT0K",
+      "url": "https://github.com/psiotavio/Nola-Releases/releases/download/v0.1.13/Nola_0.1.13_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejBFdDY0cTAwWnJtbTdKWm9DRGxIZDh6Vkc0KzlCTC9WTHdmSWtaazJCeURyS2EveWJ1ZE9EdW8xZ215ZmM2VFlLVDk1d2k3ajJDNGdXbllqeHJLd3VzZEVKbkFkcndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjczMjg3CWZpbGU6Tm9sYV8wLjEuMTNfeDY0LXNldHVwLmV4ZQptM0VvdnNsQzl1dE10ODZORjBIRmFJbk0xTzBCQVExekZrSXZ5WXoxblk2ZklDUWU3S0dkWlN6RXBkZ1Q0VmlsUmJqRVRDckJ5K3ovZysxYWxweXdEdz09Cg==",
+      "url": "https://github.com/psiotavio/Nola-Releases/releases/download/v0.1.13/Nola_0.1.13_x64-setup.exe"
+    }
+  }
+}
