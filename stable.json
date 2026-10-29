@@ -11,6 +11,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejBFdDY0cTAwWm9RVnE4eEN4alpwaUJwY3E2L2FxVTlFTm9VcXVsNXRIWVg3LzFob2gzTWlwYmZLazJVVU1aU1RFNkxhd2liL3plS0JnMzVZQ1Q5MytUVnhpdlozSlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjI1NDA3CWZpbGU6Tm9sYV8wLjEuMTNfYWFyY2g2NC5hcHAudGFyLmd6CmZTWVprOW1LUDEvVlc4Z2ZqM1QzbG9HZUJOdDAzMk4vT1Q3MldSZHZnNEpXUU8rQXQ0VDFjR3J2djZCL3RUZk1OVXhQKzNtMDlCV0tzR1RwdWc4UUR3PT0K",
       "url": "https://github.com/psiotavio/Nola-Releases/releases/download/v0.1.13/Nola_0.1.13_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUejBFdDY0cTAwWnJtbTdKWm9DRGxIZDh6Vkc0KzlCTC9WTHdmSWtaazJCeURyS2EveWJ1ZE9EdW8xZ215ZmM2VFlLVDk1d2k3ajJDNGdXbllqeHJLd3VzZEVKbkFkcndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjczMjg3CWZpbGU6Tm9sYV8wLjEuMTNfeDY0LXNldHVwLmV4ZQptM0VvdnNsQzl1dE10ODZORjBIRmFJbk0xTzBCQVExekZrSXZ5WXoxblk2ZklDUWU3S0dkWlN6RXBkZ1Q0VmlsUmJqRVRDckJ5K3ovZysxYWxweXdEdz09Cg==",
+      "url": "https://github.com/psiotavio/Nola-Releases/releases/download/v0.1.13/Nola_0.1.13_x64-setup.exe"
     }
   }
 }
